@@ -26,7 +26,7 @@
 # Today's achievement 👋
 
 ![profile views](https://komarev.com/ghpvc/?username=hyeyoom&color=blue)  
-![Hyeyoom's github stats](https://github-readme-stats.vercel.app/api?username=hyeyoom&theme=tokyonight)](https://github.com/hyeyoom)  
+[![Hyeyoom's github stats](https://github-readme-stats.vercel.app/api?username=hyeyoom&theme=tokyonight)](https://github.com/hyeyoom)  
 
 
 <!--
