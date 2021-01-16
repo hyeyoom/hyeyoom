@@ -1,5 +1,6 @@
 # me
 
+<!--
 - 💻 Backend developer@toss
 - 🏢 [Toss](https://blog.toss.im/)
 - 🛠️ Skils(**production experience**)
@@ -22,12 +23,12 @@
 - 🗣️ Language
   - 한국어
   - English
+-->
 
 # Today's achievement 👋
 
 ![profile views](https://komarev.com/ghpvc/?username=hyeyoom&color=blue)  
 [![Hyeyoom's github stats](https://github-readme-stats.vercel.app/api?username=hyeyoom&theme=tokyonight)](https://github.com/hyeyoom)  
-
 
 <!--
 **hyeyoom/hyeyoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
